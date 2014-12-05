@@ -1,7 +1,20 @@
 Android BasicAccessibility Sample
 ===================================
 
-This sample demonstrates how to create an accessible application, using a mix of different widgets demonstrating different ways of adding accessibility markup to a UI.
+This sample demonstrates how to create an accessible application, using a mix of different widgets
+demonstrating different ways of adding accessibility markup to a UI.
+
+Introduction
+------------
+
+This sample demonstrates how to create an accessible application, showing
+how to add accessibility to both framework and custom widgets.
+
+To run this sample as intended you will need to turn on TalkBack (or another text to speach system)
+on your Android device. Go to Settings > Accessibility > TalkBack to turn TalkBack on.
+
+When you run the sample with TalkBack mode on, TalkBack will read aloud the
+description of the in-focus widget.
 
 Pre-requisites
 --------------
@@ -9,6 +22,11 @@ Pre-requisites
 - Android SDK v21
 - Android Build Tools v21.1.1
 - Android Support Repository
+
+Screenshots
+-------------
+
+<img src="screenshots/main.png" height="400" alt="Screenshot"/> 
 
 Getting Started
 ---------------

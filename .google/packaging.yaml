@@ -9,4 +9,9 @@ categories:   [UI]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-BasicAccessibility
+level:        BEGINNER
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.view.View
+    - android:android.view.accessibility.AccessibilityEvent
 license: apache2
