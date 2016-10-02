@@ -111,7 +111,7 @@ limitations under the License.
 
             <!-- Like a text-based button, checkboxes with text will often work correctly as-is.
                  If your checkboxes do not have a text attribute, you will need to add a
-                 contentDescriptoin. -->
+                 contentDescription. -->
             <CheckBox
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
