@@ -11,7 +11,7 @@ Introduction
 This sample demonstrates how to create an accessible application, showing
 how to add accessibility to both framework and custom widgets.
 
-To run this sample as intended you will need to turn on TalkBack (or another text to speach system)
+To run this sample as intended you will need to turn on TalkBack (or any other text to speech system)
 on your Android device. Go to Settings > Accessibility > TalkBack to turn TalkBack on.
 
 When you run the sample with TalkBack mode on, TalkBack will read aloud the
