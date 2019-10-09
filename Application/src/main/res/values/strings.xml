@@ -20,8 +20,8 @@ limitations under the License.
     <string name="discardButtonPressed">(Discard button pressed.)</string>
     <string name="infoButtonPressed">(Info button pressed.)</string>
     <string name="composeButtonLabel">Compose</string>
-    <string name="discardButtonDescription">Discard Button</string>
-    <string name="infoButtonDescription">Info Button</string>
+    <string name="discardButtonDescription">Discard</string>
+    <string name="infoButtonDescription">Info</string>
     <string name="partlyCloudyDescription">Partly Cloudy</string>
     <string name="checkboxesLabel">Checkboxes</string>
     <string name="jetpackCheckboxLabel">Enable Jetpack</string>
